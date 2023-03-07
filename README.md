@@ -4,7 +4,7 @@
 
 - ✔️  Atualmente estou estagiando na SSdigital
 - 🛑  Graduando em sistemas para internet IFPB
-- 🔥  Enpolgante de front-end 
+- 🔥  Empolgante de front-end 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
