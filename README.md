@@ -29,7 +29,7 @@ ________________________________________________________________________________
  
 </div>
   
-    ![Snake animation](https://github.com/talinpk/talinpk/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/talinpk/talinpk/blob/output/github-contribution-grid-snake.svg)
 
   
 
